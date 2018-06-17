@@ -27,6 +27,8 @@
 1. npm install
 1. The composer archive create command in package.json has created a file called clp-network@0.0.1.bna.
 
+https://hyperledger.github.io/composer/latest/reference/composer.archive.create.html
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Step 3: Setup Hyperledger Fabric Locally
