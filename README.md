@@ -50,6 +50,8 @@ Prior to starting, we recommend removing all running containers, and all previou
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Stepn 4. Install and start the Business Network.
+
 1. First, install the business network:
 1. cd ../
 1. composer network install --card PeerAdmin@hlfv1 --archiveFile clp-network@0.0.1.bna
