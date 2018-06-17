@@ -19,7 +19,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Step 2 Clone the Repo
+# Step 2 Clone the Github Repo
 
 1. Clone the Customer Loyalty Program with Blockchain repo on your laptop. 
 1. In a terminal, run: git clone https://github.com/LennartFr/customer-loyalty-program
