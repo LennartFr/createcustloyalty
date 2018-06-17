@@ -38,10 +38,8 @@ Prior to starting, we recommend removing all running containers, and all previou
 
 1. docker kill $(docker ps -q)
 1. docker rm $(docker ps -aq)
-1. docker rmi $(docker images dev-* -q)
-1. This command will remove all composer cards
-
-1. rm -rf ~/.composer
+1. docker rmi $(docker images dev-* -q) 
+1. rm -rf ~/.composer.  This command will remove all composer cards
 
 1. The fabric setup scripts will be in the /fabric-dev-servers directory. Start fabric and create peer admin card:
 
@@ -49,6 +47,8 @@ Prior to starting, we recommend removing all running containers, and all previou
 1. ./downloadFabric.sh
 1. ./startFabric.sh
 1. ./createPeerAdminCard.sh
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 1. First, install the business network:
 1. cd ../
