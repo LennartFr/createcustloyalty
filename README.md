@@ -25,9 +25,10 @@
    In a terminal, run: git clone https://github.com/LennartFr/customer-loyalty-program
 2. cd customer-loyalty-program/
 3. npm install
+   
    The composer archive create command in package.json will create a file called clp-network@0.0.1.bna.
-
-https://hyperledger.github.io/composer/latest/reference/composer.archive.create.html
+   
+   https://hyperledger.github.io/composer/latest/reference/composer.archive.create.html
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
