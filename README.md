@@ -22,10 +22,10 @@
 # Step 2 Clone the Github Repo
 
 1. Clone the Customer Loyalty Program with Blockchain repo on your laptop. 
-1. In a terminal, run: git clone https://github.com/LennartFr/customer-loyalty-program
-1. cd customer-loyalty-program/
-1. npm install
-1. The composer archive create command in package.json will create a file called clp-network@0.0.1.bna.
+   In a terminal, run: git clone https://github.com/LennartFr/customer-loyalty-program
+2. cd customer-loyalty-program/
+3. npm install
+   The composer archive create command in package.json will create a file called clp-network@0.0.1.bna.
 
 https://hyperledger.github.io/composer/latest/reference/composer.archive.create.html
 
