@@ -1,5 +1,7 @@
 # createcustloyalty
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Pre-reqs
 
 1. Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12 or higher
@@ -7,11 +9,15 @@
 1. npm (v5.x)
 1. Node (version 8.9 or higher - note version 9 is not supported)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Step 1
 
 1. Install composer cli: npm install -g composer-cli
 1. Install composer-rest-server: npm install -g composer-rest-server
 1. Install generator-hyperledger-composer: npm install -g generator-hyperledger-composer
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Step 2
 
@@ -32,6 +38,8 @@ Prior to starting, would recommend removing all running containers, and all prev
 
 1. The fabric setup scripts will be in the /fabric-dev-servers directory. Start fabric and create peer admin card:
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 1. cd fabric-dev-servers/
 1. ./downloadFabric.sh
 1. ./startFabric.sh
@@ -48,6 +56,10 @@ Prior to starting, would recommend removing all running containers, and all prev
 1. Check that the business network has been deployed successfully, run the following command to ping the network:
 1. composer network ping --card admin@clp-network
 1. If the command returns successfully, your setup is complete.
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Run the app
 
 1. cd web-app/
 1. npm install
