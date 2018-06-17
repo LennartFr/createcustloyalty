@@ -2,13 +2,14 @@
 
 # Step 1
 
-Install composer cli: npm install -g composer-cli
-Install composer-rest-server: npm install -g composer-rest-server
-Install generator-hyperledger-composer: npm install -g generator-hyperledger-composer
+1. Install composer cli: npm install -g composer-cli
+1. Install composer-rest-server: npm install -g composer-rest-server
+1. Install generator-hyperledger-composer: npm install -g generator-hyperledger-composer
 
 # Step 2
 
 Clone the Customer Loyalty Program with Blockchain repo locally. 
+
 In a terminal, run:
 git clone https://github.com/LennartFr/customer-loyalty-program
 
