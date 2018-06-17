@@ -53,7 +53,7 @@ Prior to starting, we recommend removing all running containers, and all previou
 1. First, install the business network:
 1. cd ../
 1. composer network install --card PeerAdmin@hlfv1 --archiveFile clp-network@0.0.1.bna
-1. Start the business network:
+1. Then start the business network:
 1. composer network start --networkName clp-network --networkVersion 0.0.1 --networkAdmin admin --networkAdminEnrollSecret 
 1. adminpw --card PeerAdmin@hlfv1 --file networkadmin.card
 1. Import the network administrator identity as a usable business network card:
