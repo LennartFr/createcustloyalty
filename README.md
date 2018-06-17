@@ -1,5 +1,12 @@
 # createcustloyalty
 
+# Pre-reqs
+
+1. Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12 or higher
+1. Docker (Version 17.03 or higher)
+1. npm (v5.x)
+1. Node (version 8.9 or higher - note version 9 is not supported)
+
 # Step 1
 
 1. Install composer cli: npm install -g composer-cli
