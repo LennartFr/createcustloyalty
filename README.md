@@ -27,7 +27,11 @@
 1. npm install
 1. The composer archive create command in package.json has created a file called clp-network@0.0.1.bna.
 
-Prior to starting, would recommend removing all running containers, and all previously created Hyperledger Fabric chaincode images:
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Step 3: Setup Hyperledger Fabric Locally
+
+Prior to starting, we recommend removing all running containers, and all previously created Hyperledger Fabric chaincode images:
 
 1. docker kill $(docker ps -q)
 1. docker rm $(docker ps -aq)
@@ -37,8 +41,6 @@ Prior to starting, would recommend removing all running containers, and all prev
 1. rm -rf ~/.composer
 
 1. The fabric setup scripts will be in the /fabric-dev-servers directory. Start fabric and create peer admin card:
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 1. cd fabric-dev-servers/
 1. ./downloadFabric.sh
