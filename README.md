@@ -11,21 +11,21 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Step 1
+# Step 1 Install the Hyperledger Composer runtime components
 
-1. Install composer cli: npm install -g composer-cli
-1. Install composer-rest-server: npm install -g composer-rest-server
-1. Install generator-hyperledger-composer: npm install -g generator-hyperledger-composer
+1. npm install -g composer-cli
+1. npm install -g composer-rest-server
+1. npm install -g generator-hyperledger-composer
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Step 2
+# Step 2 Clone the Repo
 
-1. Clone the Customer Loyalty Program with Blockchain repo locally. 
+1. Clone the Customer Loyalty Program with Blockchain repo on your laptop. 
 1. In a terminal, run: git clone https://github.com/LennartFr/customer-loyalty-program
 1. cd customer-loyalty-program/
 1. npm install
-1. The composer archive create command in package.json has created a file called clp-network@0.0.1.bna.
+1. The composer archive create command in package.json will create a file called clp-network@0.0.1.bna.
 
 https://hyperledger.github.io/composer/latest/reference/composer.archive.create.html
 
